@@ -45,6 +45,4 @@ Unit tests are crucial for ensuring code quality. You can run your tests with:
 go test ./...
 ```
 
-## License
-
-This project is licensed under the MIT License (see LICENSE file).
+---
